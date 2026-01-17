@@ -1,0 +1,21 @@
+{
+  "name": "quasar-wms-app",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "quasar dev",
+    "build": "quasar build",
+    "lint": "eslint --ext .js,.vue src"
+  },
+  "dependencies": {
+    "quasar": "^2.15.4",
+    "vue": "^3.4.21",
+    "vue-router": "^4.3.0"
+  },
+  "devDependencies": {
+    "@quasar/app-vite": "^1.9.5",
+    "eslint": "^8.57.0",
+    "eslint-plugin-vue": "^9.23.0"
+  }
+}
